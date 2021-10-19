@@ -1,0 +1,39 @@
+.jumbotron{
+    background-attachment: fixed;
+    position:center;
+    height:100vh;
+    text-align: center;
+    background:no-repeat;
+    margin:0%;
+    
+}
+    
+h1{
+    font-family:Courgette;
+    font-weight: bold;
+
+}    
+.p{font-family: Courgette;
+ font-weight:bolder}
+
+
+.jumbo1{
+    background-image: url(https://images.pexels.com/photos/462118/pexels-photo-462118.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=1500);
+}
+.jumbo2{
+    background-image: url(https://images.pexels.com/photos/69776/tulips-bed-colorful-color-69776.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=1500);
+}
+.jumbo3{
+    background-image: url(https://images.pexels.com/photos/462402/pexels-photo-462402.jpeg?auto=compress&cs=tinysrgb&h=1&w=1500);
+}
+.footer{
+    background-color:gold;
+    height:120px;
+}
+.col-sm{
+    height:20px;
+
+    position:center;
+    text-align: center;
+}
+
