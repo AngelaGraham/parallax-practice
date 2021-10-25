@@ -9,8 +9,9 @@
 }
 .nav-item{
     font-family:Courgette;
-    font-size: 25px;
+    font-size: 15px;
     font-weight: bolder;
+    font-color: gold;
 }
     
 h1{
@@ -18,8 +19,9 @@ h1{
     font-weight: bold;
 
 }    
-.p{font-family: Courgette;
- font-weight:bolder}
+.p{
+    font-family: Courgette;
+    font-weight:bolder}
 
 
 .jumbo1{
